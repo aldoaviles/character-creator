@@ -5,7 +5,7 @@
 }
 
 .maxWidthWrapper {
-  
+  position: relative;
 }
 
 .header {
@@ -39,3 +39,10 @@
   width: 50%;
 }
 
+.mediaPantalla {
+  background-color: gray;
+  position: fixed;
+  top: 50%;
+  height: 50%;
+  width: 100%;
+}
